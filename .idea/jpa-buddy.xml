@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="27a6dea2-6ad7-40a8-9d27-87bd975cbcb7__accountManagerDB" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/talentsoft/rootempresamicroservice/model" />
+  </component>
+</project>
